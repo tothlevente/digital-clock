@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "SairaStencilOne";
+  src: url("/src/fonts/SairaStencilOne.ttf") format("truetype");
+  style: "normal";
+  weight: "100 900";
+}
+
+body {
+  background-color: #f5f5f5;
+  font-family: "SairaStencilOne", sans-serif;
+  font-size: medium;
+  line-height: 1.8;
+}
+
+#clock {
+  font-size: 5em;
+  text-align: center;
+  margin-top: 50px;
+  color: #292524;
+}

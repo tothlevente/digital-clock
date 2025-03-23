@@ -1,0 +1,15 @@
+{
+  "name": "digital-clock",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "author": "Levente Tóth",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
