@@ -2,6 +2,18 @@
 
 This is a simple digital clock application built with Vite. It displays the current time and updates every second.
 
+## Features
+
+- Displays the current time in HH:MM:SS format.
+- Updates the time in real-time.
+- Clean and simple design.
+
+## Technologies Used
+
+- Vite
+- JavaScript
+- CSS
+
 ## Available scripts
 
 In the project directory, you can run:
