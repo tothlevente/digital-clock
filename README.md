@@ -1,4 +1,4 @@
-# Digital clock 1️⃣2️⃣:3️⃣0️⃣
+# Digital clock 1️⃣9️⃣:3️⃣7️⃣
 
 This is a simple digital clock application built with Vite. It displays the current time and updates every second.
 
